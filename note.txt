@@ -1,0 +1,2 @@
+How To Host/Deploy Application:
+https://stackoverflow.com/questions/4723706/how-to-move-website-created-with-xamppwindows-to-hosting-server
